@@ -1,0 +1,58 @@
+
+body{
+background-color: #9b59b6;
+}
+
+td{
+	text-align: center;
+	background-color: ;
+	border: 1px solid black;
+	border-radius: 50px;
+	margin-top: 300px;
+	height: 50px;
+
+}
+
+.firstname {
+	
+	background-color: blue;
+	font-size: 48px;
+	color: #3e3e3e;
+}
+
+.Mest{
+	font-size: 64px;
+	color: #222;
+}
+
+
+.testbg{
+
+	width: 200px ; 
+	height: 200px;
+	
+}
+
+.row div{
+
+	text-align: center;
+
+}
+
+img{
+	border-radius: 50%; 
+	margin-bottom: 100px;
+
+
+}
+
+.menus-styling{
+	font-size: 50px;
+	text-align: center;
+	border: 1px solid #333;
+	margin-top: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background color: #2980b9;
+
+}

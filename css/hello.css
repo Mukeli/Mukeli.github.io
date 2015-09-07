@@ -1,0 +1,18 @@
+.firstname {
+	
+	background-color: blue;
+	font-size: 50px;
+}
+
+.testbg{
+
+background: url("../test.jpg");
+padding-bottom: 500px;
+}
+
+.lastname {
+	
+	background-color: red;
+
+	font-size: 50px;
+}
